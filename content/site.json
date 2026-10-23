@@ -1,0 +1,99 @@
+{
+  "general": {
+    "labName": "Matsui Lab",
+    "brandMark": "M",
+    "institution": "Hunter College",
+    "university": "City University of New York",
+    "department": "Department of Chemistry & Biochemistry",
+    "location": "New York, NY",
+    "tagline": "At the interface of nanotechnology and biology.",
+    "profileUrl": "https://www.hunter.cuny.edu/people/hiroshi-matsui/",
+    "profileLinkLabel": "Hunter faculty profile"
+  },
+  "navigation": {
+    "research": "Research",
+    "people": "People",
+    "papers": "Papers",
+    "contact": "Get in touch"
+  },
+  "home": {
+    "eyebrow": "NANOSCIENCE × BIOLOGY",
+    "title": "Small structures.",
+    "accent": "New possibilities.",
+    "description": "Exploring how nanoscale materials can advance drug delivery, medical imaging, and therapeutic discovery.",
+    "researchButton": "Explore our research",
+    "peopleButton": "Meet the lab",
+    "affiliationLabel": "BASED AT",
+    "topics": [
+      "Nanomedicine",
+      "Biomaterials",
+      "Molecular self-assembly"
+    ]
+  },
+  "research": {
+    "label": "01 / RESEARCH",
+    "title": "Engineering at the",
+    "accent": "biological interface.",
+    "description": "The Matsui Lab connects materials chemistry with biology to investigate nanoscale approaches to medicine.",
+    "linkLabel": "Read the research background",
+    "linkUrl": "https://www.hunter.cuny.edu/people/hiroshi-matsui/"
+  },
+  "people": {
+    "label": "02 / PEOPLE",
+    "title": "The people behind",
+    "accent": "the possibilities.",
+    "description": "Meet our principal investigator and research group.",
+    "currentLabel": "Current members",
+    "alumniLabel": "Alumni",
+    "piLabel": "PRINCIPAL INVESTIGATOR",
+    "piName": "Hiroshi Matsui, Ph.D.",
+    "piRole": "Professor · Chemistry & Biochemistry",
+    "piAffiliation": "Hunter College, CUNY",
+    "piBio": "Professor Matsui studies biomaterials and nanochemistry.",
+    "piPhoto": "assets/matsui.webp",
+    "piPhotoAlt": "Professor Hiroshi Matsui",
+    "piProfileLabel": "Faculty profile",
+    "piProfileUrl": "https://www.hunter.cuny.edu/people/hiroshi-matsui/",
+    "piEmailLabel": "Email",
+    "piEmail": "hmatsui@hunter.cuny.edu",
+    "educationLabel": "EDUCATION & TRAINING",
+    "education": [
+      {
+        "institution": "Columbia University",
+        "qualification": "Postdoctoral research"
+      },
+      {
+        "institution": "Purdue University",
+        "qualification": "Ph.D. · Chemistry"
+      },
+      {
+        "institution": "Stanford University",
+        "qualification": "M.S. · Materials Science & Engineering"
+      },
+      {
+        "institution": "Sophia University",
+        "qualification": "B.S. · Chemistry"
+      }
+    ]
+  },
+  "publications": {
+    "label": "03 / SELECTED PAPERS",
+    "title": "Ideas, investigated.",
+    "accent": "Discoveries, shared.",
+    "description": "A selection of published work in nanoscale materials and biology. Visit PubMed for additional publications.",
+    "allLabel": "All papers",
+    "searchLabel": "Search publications",
+    "searchPlaceholder": "Search papers…",
+    "emptyMessage": "No papers match your search. Try another title, author, or year.",
+    "linkLabel": "Explore publications on PubMed",
+    "linkUrl": "https://pubmed.ncbi.nlm.nih.gov/?sort=date&term=Matsui%2C+Hiroshi"
+  },
+  "contact": {
+    "label": "CONNECT WITH THE LAB",
+    "title": "Science starts with",
+    "accent": "a conversation.",
+    "description": "For research inquiries, contact Professor Matsui.",
+    "email": "hmatsui@hunter.cuny.edu",
+    "address": "413 East 69th Street · Belfer Research Building\nNew York, NY"
+  }
+}
